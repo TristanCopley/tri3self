@@ -1,3 +1,5 @@
+{% include nav.html %}
+
 ## Welcome to Tristan's page
 
 You can use the [editor on GitHub](https://github.com/TristanCopley/tri3self/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
